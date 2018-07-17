@@ -1,0 +1,7 @@
+D:\VS Projects\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+D:\VS Projects\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe
+D:\VS Projects\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.pdb
+D:\VS Projects\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojAssemblyReference.cache
+D:\VS Projects\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\VS Projects\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.exe
+D:\VS Projects\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb

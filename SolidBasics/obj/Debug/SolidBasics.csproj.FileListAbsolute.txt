@@ -1,0 +1,7 @@
+D:\GitHub\SolidBasics\SolidBasics\bin\Debug\DependencyInjection.exe.config
+D:\GitHub\SolidBasics\SolidBasics\bin\Debug\DependencyInjection.exe
+D:\GitHub\SolidBasics\SolidBasics\bin\Debug\DependencyInjection.pdb
+D:\GitHub\SolidBasics\SolidBasics\obj\Debug\SolidBasics.csprojAssemblyReference.cache
+D:\GitHub\SolidBasics\SolidBasics\obj\Debug\SolidBasics.csproj.CoreCompileInputs.cache
+D:\GitHub\SolidBasics\SolidBasics\obj\Debug\DependencyInjection.exe
+D:\GitHub\SolidBasics\SolidBasics\obj\Debug\DependencyInjection.pdb
